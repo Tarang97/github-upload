@@ -1,0 +1,8 @@
+ASP.NETCoreWebAPI/bin
+ASPNETCoreAPI.ConsoleApp/bin
+ASPNETCoreAPI.IdentityServer/bin
+ASPNETCoreAPI.Web/bin
+ASP.NETCoreWebAPI/obj
+ASPNETCoreAPI.ConsoleApp/obj
+ASPNETCoreAPI.IdentityServer/obj
+ASPNETCoreAPI.Web/obj
